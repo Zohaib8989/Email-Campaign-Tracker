@@ -1,1 +1,1 @@
-# Email-Campaign-Tracker
+# Email Campaign Tracker
