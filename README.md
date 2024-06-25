@@ -1,5 +1,3 @@
-Certainly! Here's a cleaned-up and formatted version for your GitHub README file:
-
 # Limitless Life LLC
 
 ## Introduction 👋
